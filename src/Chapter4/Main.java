@@ -1,3 +1,4 @@
+/* 
 package Chapter4;
 // chaptr 4 - Polymorphism
 
@@ -17,3 +18,4 @@ public class Main {
 // Polymorphism is the ability of an object to take on many forms.
 // 1- overriding a method in the sub class that is inherited from the super class
 // 2- overloading a method in one class
+*/
