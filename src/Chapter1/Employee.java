@@ -1,5 +1,5 @@
 package Chapter1;
-//Chaptr 1
+//Chaptr 1 - Classes and Objects
 public class Employee {
     String name; 
     int age; 
