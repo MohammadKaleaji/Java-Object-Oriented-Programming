@@ -1,3 +1,4 @@
+/* 
 package Chapter2;
 
 //Chaptr 2 - Encapsulation
@@ -13,3 +14,4 @@ public class Main {
                 + "'s bank account is " + bankAccount1.getBalance() + " SAR");
     }
 }
+*/
